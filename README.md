@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nilesh Adiyecha</h1>
+<h3 align="center">Designing and automating scalable, secure, and high-performance DevOps solutions.</h3>
 
-<!--
-**nileshA-addweb/nileshA-addweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently exploring **Kubernetes scaling, cloud security, and advanced CI/CD strategies.**
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on enterprise **DevOps solutions, cloud automation, and infrastructure as code (IaC).**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with **optimizing system reliability, cost efficiency, and high-availability architectures.
+
+💬 Ask me about **Docker, Kubernetes, Terraform, AWS, CI/CD, and server automation.**
+
+⚡ Fun fact: I script automation before my **coffee even cools down!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh-addweb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilesh-addweb" alt="nilesh-addweb" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-569A31?style=for-the-badge&logo=amazon-rds&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CodePipeline](https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Virtual Machines](https://img.shields.io/badge/Virtual_Machines-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Managed Database](https://img.shields.io/badge/Managed_Database-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![ISO 27001](https://img.shields.io/badge/ISO_27001-0052CC?style=for-the-badge&logo=security&logoColor=white) ![SOC 2](https://img.shields.io/badge/SOC_2-0052CC?style=for-the-badge&logo=security&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-0078D4?style=for-the-badge&logo=security&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-0033A0?style=for-the-badge&logo=security&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![DNS](https://img.shields.io/badge/DNS_(Route_53)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![IIS](https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=api&logoColor=white) !
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh-addweb&show_icons=true&locale=en" alt="nilesh-addweb" /></p>
